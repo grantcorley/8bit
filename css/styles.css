@@ -1,11 +1,10 @@
-
-
 html, body {
         height: 100%;
         margin: 0px;
-    }
+}
 
-    body{
+
+body{
 	background-color:#0066cc;
 }
 
@@ -23,7 +22,6 @@ html, body {
 
 
 .placeholder-logo{
-	
 	width:50%;
 	height:auto;
 }
